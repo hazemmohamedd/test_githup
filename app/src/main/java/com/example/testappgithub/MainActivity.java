@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         FloatingActionButton fab = findViewById(R.id.fab);
 
         Toast.makeText(this, "Hello World", Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(this, "Hello World", Toast.LENGTH_SHORT).show();
 
     }
 
